@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Hunter" class="responsive" src="./assets/hunter.jpg" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+    <img alt="Hunter" class="responsive" src="./assets/HunterFixed.jpg" />
+    <HelloWorld msg="Hunter" />
   </div>
 </template>
 
