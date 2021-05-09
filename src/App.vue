@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <img alt="Hunter" class="responsive" src="./assets/HunterFixed.jpg" />
-    <HelloWorld msg="Hunter" />
+    <img alt="Noah" class="responsive" src="./assets/noah.jpg" />
+    <HelloWorld msg="Noah" />
   </div>
 </template>
 
@@ -26,7 +26,7 @@ export default {
   margin-top: 60px;
 }
 .responsive {
-  width: 90%;
+  width: 80%;
   height: auto;
 }
 </style>
